@@ -1,0 +1,27 @@
+.banner{
+    background: url("https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2018/11/dark-wallpapers.jpg")
+    no-repeat center center;
+    background-size:cover;
+    padding-top:20%;
+    padding-bottom: 10%;
+    color:#fff;
+}
+.banner2{
+    background: url("https://img.pikbest.com/wp/202405/nighttime-contemporary-home-office-workspace-with-sleek-desktop-computer_9841995.jpg!bw700")
+    no-repeat center center;
+    background-size:cover;
+    padding-top:20%;
+    padding-bottom: 10%;
+}
+.background1{
+ background-color: gray;
+}
+
+.background2{
+    background-color: rgb(8, 139, 8);
+   }
+   
+.profil{
+    background-color: grey ;
+    padding: 30px;
+}
